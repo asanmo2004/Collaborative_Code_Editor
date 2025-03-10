@@ -38,7 +38,7 @@ const Editor = () => {
     const runCode = async () => {
         setOutput("Running code...");
         try {
-            const response = await fetch("http://localhost:5000/run", {
+            const response = await fetch("https://collaborative-code-editor-kipk.onrender.com/run", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ language, code }),
