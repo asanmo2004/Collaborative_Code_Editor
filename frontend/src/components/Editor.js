@@ -4,8 +4,8 @@ import { socket } from "../socket";
 
 const Editor = () => {
     const { roomId } = useParams();
-    const [code, setCode] = useState("// Start coding...");
-    const [language, setLanguage] = useState("Python");
+    const [code, setCode] = useState("#Start coding...");
+    const [language, setLanguage] = useState("python3");
     const [output, setOutput] = useState("");
 
     useEffect(() => {
