@@ -4,7 +4,7 @@
 
 **CodeMaster** is a real-time collaborative code editor that enables multiple users to write, edit, and execute code simultaneously. It supports multiple programming languages and provides instant code execution, making it perfect for **pair programming, coding interviews, and online coding sessions**.  
 
-🔗 **Live Demo**: [CodeMaster](https://code-master.onrender.com/)  
+🔗 **Live Demo**: [CodeMaster](https://collaborative-code-editor-liart.vercel.app/)  
 📂 **GitHub Repository**: [CodeMaster](https://github.com/asanmo2004/Collaborative_Code_Editor)  
 
 ---
